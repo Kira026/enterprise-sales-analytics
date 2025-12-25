@@ -23,6 +23,9 @@ An end-to-end enterprise-level sales analytics system built using Global Superst
 ## 📈 Dashboard Preview
 ![Dashboard](screenshots/dashboard_overview.png)
 
+## 🧩 Star Schema Data Model
+![Star Schema](screenshots/star_schema.png)
+
 ## 📉 Sales Forecast
 ![Forecast](screenshots/forecasting.png)
 
